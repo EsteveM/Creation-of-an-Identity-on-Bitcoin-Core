@@ -19,9 +19,9 @@ The following files have been included as part of this project:
 
 ## Getting Started
 
-The wallet client used is downloaded and then installed from [Electrum.org]](https://electrum.org/#download). The message to be signed is then obtained from [this web application](https://bitcoin-message-validation.firebaseapp.com/) providing the wallet address. Finally, the wallet client is used to sign the message, and the web application to verify the signature.
+The wallet client used is downloaded and then installed from [Electrum.org](https://electrum.org/#download). The message to be signed is then obtained from [this web application](https://bitcoin-message-validation.firebaseapp.com/) providing the wallet address. Finally, the wallet client is used to sign the message, and the web application to verify the signature.
 
-Please, note that if you use the latest wallet client version from [Electrum.org]](https://electrum.org/#download), your wallet should be installed as legacy. In this way, it works successfully with the [web application](https://bitcoin-message-validation.firebaseapp.com/). The reason is that the default receiving wallet addresses do not work with the web application if the wallet is defined as segwit.
+Please, note that if you use the latest wallet client version from [Electrum.org](https://electrum.org/#download), your wallet should be installed as legacy. In this way, it works successfully with the [web application](https://bitcoin-message-validation.firebaseapp.com/). The reason is that the default receiving wallet addresses do not work with the web application if the wallet is defined as segwit.
 
 ## Contributing
 
